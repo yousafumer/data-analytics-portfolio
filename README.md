@@ -7,7 +7,7 @@ This repository contains my hands-on data analytics projects using:
 
 ## 🔹 Projects Included
 - Excel Sales Analysis
-- Excel Call Center Analysis
+- Excel Vrinda Store Data Analysis
 - Power BI Call Center Dashboard (MySQL backend)
 - Power BI Sales Performance Dashboard
 
