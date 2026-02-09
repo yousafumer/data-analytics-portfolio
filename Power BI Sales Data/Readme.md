@@ -1,34 +1,80 @@
-# Power BI Guided Project: Sales Analysis Dashboard
+# 📊 Power BI Sales Analysis Dashboard
 
 ## 📌 Project Overview
 
-This project is a guided analysis using **Power BI** to visualize and analyze sales data. The dataset includes various sales metrics, such as revenue, profit, and regional sales performance. The goal of this project is to demonstrate **data-driven decision-making** using Power BI's interactive visualizations.
+This project showcases a **multi-page interactive Sales Analysis Dashboard** built in **Microsoft Power BI** to deliver actionable business insights from raw sales data.
+
+The report focuses on tracking performance, identifying trends, and supporting **data-driven decision-making** through dynamic visuals, KPIs, and AI-powered insights.
+
+---
 
 ## 📂 Dataset
 
-The dataset used in this project is publicly available on **GitHub**. It includes:
+The dataset includes structured sales records covering:
 
-- **Sales transactions**
-- **Customer details**
-- **Product categories**
-- **Revenue and profit margins**
+- Sales transactions  
+- Customer information  
+- Product categories  
+- Revenue and profit metrics  
 
-🔗 **Download the dataset here:** https://github.com/yousafumer/power-bi-sales-data
+🔗 **Dataset Source:**  
+https://github.com/yousafumer/power-bi-sales-data
 
-## 🎯 Key Insights and Visualizations
+---
 
-The Power BI dashboard provides the following insights:
+## 🎯 Dashboard Features & Insights
 
-- **Total Sales & Revenue Trends** 📈
-- **Top-Selling Products & Categories** 🏆
-- **Region-Wise Performance** 🌍
-- **Customer Demographics & Behavior** 👥
-- **Profit Margins & KPIs Analysis** 📊
+This Power BI solution provides:
 
-## 🛠️ Tools Used
+- 📈 Sales & Revenue Trends Over Time  
+- 🏆 Top-Selling Products and Categories  
+- 🌍 Region-Wise Performance Analysis  
+- 👥 Customer Behavior & Segmentation  
+- 📊 Profit Margins and Key Performance Indicators  
+- 🤖 AI-Powered Visuals for automated trend and anomaly detection  
 
-- **Microsoft Power BI** for data visualization and reporting
-- **Excel** for initial data cleaning and preparation
+The dashboard is designed for business users to quickly understand performance and make strategic decisions.
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+**Microsoft Power BI**
+- Data Modeling & Relationships  
+- DAX Measures for KPIs and calculations  
+- Interactive Visualizations  
+- AI Visuals  
+
+**Microsoft Excel**
+- Data cleaning and preprocessing  
+
+---
+
+## 📥 How to Explore the Project
+
+1. Download the dataset from the GitHub link above  
+2. Open the provided **Power BI (.pbix) file**  
+3. Interact with filters, slicers, and visuals to explore insights  
+4. Customize visuals or measures as needed for your use case  
+
+---
+
+## 🚀 Project Goal
+
+The goal of this project is to demonstrate my ability to:
+
+- Transform raw business data into meaningful insights  
+- Design professional, user-friendly Power BI dashboards  
+- Use DAX and data modeling to build scalable reports  
+
+This type of dashboard can be adapted for **sales, finance, marketing, or operations reporting**.
+
+---
+
+📢 **Connect with me on LinkedIn:**  
+https://www.linkedin.com/in/yousaf-umer-558102214/
+
+📧 **Contact:** yousafumer128@gmail.com
 
 
 ## 📥 How to Use
